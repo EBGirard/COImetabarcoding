@@ -1,7 +1,7 @@
 # Please cite us if you use any of our data: 
 
 
-# Bulk-DNA metabarcoding using mitochondrial COI adequately retrieves foraminiferal community composition
+# COI metabarcoding of large benthic Foraminifera: Method validation for application in ecological studies
 
 Elsa B. Girard 1,2, Jan-Niklas Macher 1, Jamaluddin Jompa 3, Willem Renema 1,2
 
