@@ -28,3 +28,8 @@ COI, Community composition, Coral reef, Bulk-sample DNA, Environmental DNA, Fora
 2. Open R studio and the R code file
 3. Run the section or the analysis of the code that is of interest
 4. Cite us, thank you :-)
+
+# Citation
+
+Girard, E.B., Macher, J.-N., Jompa, J., Renema, W., 2022. COI metabarcoding of large benthic Foraminifera: Method validation for application in ecological studies. Ecol. Evol. 12, e9549.
+
