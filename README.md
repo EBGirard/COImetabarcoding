@@ -23,7 +23,7 @@ Monitoring community composition of foraminifera provides valuable insights on e
 ## Key words: 
 COI, Community composition, Coral reef, Bulk-sample DNA, Environmental DNA, Foraminifera, Metabarcoding
 
-# Supplementary files (R code and dataset): How-to-do
+# R code and dataset: How-to-do
 1. Download the dataset folder and the R code
 2. Open R studio and the R code file
 3. Run the section or the analysis of the code that is of interest
